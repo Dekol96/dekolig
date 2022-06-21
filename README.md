@@ -1,15 +1,43 @@
-$ pkg update && pkg upgrade
+Tool Sederhana Untuk Crack Instagram
 
-$ pkg install python2
+Cara Install Scripts
 
-$ pkg install git
+pkg update && pkg upgrade
 
-$ git clone https://github.com/Dekol96/dekolig
+pkg install python
 
-$ pip2 install requests bs4
+pkg install git
 
-$ pip2 install futures
+pip install stdiomask
 
-$ cd ig
+pip install requests
 
-$ python2 dekolig.py
+pip install bs4
+
+pip install simplejson
+
+pip install requests
+
+pip install futures
+
+git clone https://github.com/Dekol96/dekolig
+
+Cara Menjalankan Scripts
+
+cd dekolig
+
+python instagram.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
